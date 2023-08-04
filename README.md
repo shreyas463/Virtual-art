@@ -26,7 +26,8 @@ Search for an Artwork
 Add or delete an Artwork
 Login: New users can sign up to be members.
 
-  
+  ![Screenshot 2022-06-18 at 4 30 23 PM](https://github.com/shreyas463/Virtual-art/assets/76155738/93491cfd-17aa-4f97-8f92-b51b83283f07)
+
 
 ![Screenshot 2022-06-18 at 4 37 14 PM](https://github.com/shreyas463/Virtual-art/assets/76155738/b2f33595-fb8b-4868-a126-7c3de2fa252e)
 
